@@ -26,7 +26,12 @@ go.work
 *.swo
 *~
 
+<<<<<<< HEAD
+# Kubeconfig might contain secrets
+*.kubeconfig
+=======
 *.ignore.*
 
 #Ignore config files for DisAPIM
 /dis-apim-config.toml
+>>>>>>> tmp-original-13-01-26-00-04
