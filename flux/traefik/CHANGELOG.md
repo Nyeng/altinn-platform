@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0](https://github.com/Nyeng/altinn-platform/compare/flux-oci-traefik-v2.1.0...flux-oci-traefik-v2.2.0) (2026-02-04)
+
+
+### Features
+
+* Add Renovate Helmreleases detection and config ([#2493](https://github.com/Nyeng/altinn-platform/issues/2493)) ([a873283](https://github.com/Nyeng/altinn-platform/commit/a87328365fd08c2b050fa62757727461402726d2))
+* enable otlp for traefik ([#2915](https://github.com/Nyeng/altinn-platform/issues/2915)) ([449aced](https://github.com/Nyeng/altinn-platform/commit/449aced1b381d08fd48b23d499aa85385a74be9d))
+
+
+### Dependency Updates
+
+* update helm release traefik to v38 ([#2865](https://github.com/Nyeng/altinn-platform/issues/2865)) ([d579e5c](https://github.com/Nyeng/altinn-platform/commit/d579e5c5dcd185d77ac40c46c849874ee580008a))
+
 ## [2.1.0](https://github.com/Altinn/altinn-platform/compare/flux-oci-traefik-v2.0.0...flux-oci-traefik-v2.1.0) (2026-01-15)
 
 
