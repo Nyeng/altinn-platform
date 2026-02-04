@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.8.4](https://github.com/Nyeng/altinn-platform/compare/tf-azdev-agent-0.8.3...tf-azdev-agent-0.8.4) (2026-02-04)
+
+
+### Bug Fixes
+
+* add missing ignore to upstream cve, remove fixed cve from ignore ([#2917](https://github.com/Nyeng/altinn-platform/issues/2917)) ([2ad2f88](https://github.com/Nyeng/altinn-platform/commit/2ad2f8891494303f4ea9b3d24678606284d9e6d0))
+* Temporary Add CVE exceptions to Trivy ignore file ([#2564](https://github.com/Nyeng/altinn-platform/issues/2564)) ([1c32715](https://github.com/Nyeng/altinn-platform/commit/1c32715bfbf87e82bcd32eff09b0f4f8ea5baafb))
+
+
+### Dependency Updates
+
+* update dependency helm to v3.19.4 ([#2812](https://github.com/Nyeng/altinn-platform/issues/2812)) ([819956d](https://github.com/Nyeng/altinn-platform/commit/819956daddb3a88670db7f0fb25e95376d4452aa))
+* update dependency kubectl to v1.35.0 ([#2814](https://github.com/Nyeng/altinn-platform/issues/2814)) ([408229b](https://github.com/Nyeng/altinn-platform/commit/408229b4957e782fb09ffa2d8dacd87b43a12139))
+* update dockerfile non-major dependencies ([#2989](https://github.com/Nyeng/altinn-platform/issues/2989)) ([2989b2b](https://github.com/Nyeng/altinn-platform/commit/2989b2bca852ea641a8b6c4a97d4e9b565c67316))
+
 ## [0.8.3](https://github.com/Altinn/altinn-platform/compare/tf-azdev-agent-0.8.2...tf-azdev-agent-0.8.3) (2026-01-22)
 
 
