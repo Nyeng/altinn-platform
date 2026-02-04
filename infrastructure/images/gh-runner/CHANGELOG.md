@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.5.0](https://github.com/Nyeng/altinn-platform/compare/ghrunner-0.4.1...ghrunner-0.5.0) (2026-02-04)
+
+
+### Features
+
+* Add CVE-2026-23745 to gh-runner .trivyignore ([#2961](https://github.com/Nyeng/altinn-platform/issues/2961)) ([2c189fe](https://github.com/Nyeng/altinn-platform/commit/2c189fe1a67adb188305e090453ac4b8b3f3602e))
+* Add uuid-runtime to GH runner image ([#2966](https://github.com/Nyeng/altinn-platform/issues/2966)) ([bc68f89](https://github.com/Nyeng/altinn-platform/commit/bc68f8931b4fb23fc9c67913398ff8919dafd00a))
+* Install Azure CLI, Node.js 20, and GitHub CLI ([#2963](https://github.com/Nyeng/altinn-platform/issues/2963)) ([7a69f7f](https://github.com/Nyeng/altinn-platform/commit/7a69f7f41babc86cd464b20a343096b5bb295288))
+
+
+### Dependency Updates
+
+* update dockerfile non-major dependencies ([#2989](https://github.com/Nyeng/altinn-platform/issues/2989)) ([2989b2b](https://github.com/Nyeng/altinn-platform/commit/2989b2bca852ea641a8b6c4a97d4e9b565c67316))
+
 ## [0.4.1](https://github.com/Altinn/altinn-platform/compare/ghrunner-0.4.0...ghrunner-0.4.1) (2026-01-22)
 
 
